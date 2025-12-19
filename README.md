@@ -37,6 +37,7 @@
 - Page Object Model (POM)
 
 ##  Структура проекта
+```
 src
 └── test
 ├── java
@@ -51,7 +52,7 @@ src
 └── testng.xml
 pom.xml
 README.md
-
+```
 ## Требования к окружению
 
 ### Общее
