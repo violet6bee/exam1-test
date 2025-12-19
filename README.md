@@ -69,5 +69,3 @@ README.md
 ###
 ```bash
 mvn test
-
-![Скрин](C:\Users\Mouse\Downloads\Telegram Desktop\photo_2025-12-19_23-45-40.jpg)
